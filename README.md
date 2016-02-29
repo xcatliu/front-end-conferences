@@ -4,7 +4,7 @@
 
 ## 2016 Conferences
 
-| Date | Location | Themes |
-| ---- | -------- | ------ |
-| 2016-02-26 | YouTube | [React.js Conf 2016 - Lightning Talk - Scott Kyle](https://www.youtube.com/watch?v=JyGFTGEFn-A) |
-| 2016-03-19 | 广州-嘉裕太阳城广场三楼金逸国际影城四号厅 | [...](http://fequan.com/2016/) |
+| Date | Location | Themes | Tags |
+| ---- | -------- | ------ | ---- |
+| 2016-02-26 | YouTube | [React.js Conf 2016 - Lightning Talk - Scott Kyle](https://www.youtube.com/watch?v=JyGFTGEFn-A) | Realm, React Native, Database |
+| 2016-03-19 | 广州-嘉裕太阳城广场三楼金逸国际影城四号厅 | [...](http://fequan.com/2016/) | |
