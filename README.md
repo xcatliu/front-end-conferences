@@ -6,8 +6,8 @@
 
 | Date | Location | Themes | Tags |
 | ---- | -------- | ------ | ---- |
-| 2016-03-19 | [广州-嘉裕太阳城广场三楼金逸国际影城四号厅](http://fequan.com/2016/) | [使用React、Redux和Node.js构建通用应用] Stepan Parunashvili <br/> [微信Web APP开发最佳实践] 江剑锋 <br/> [React tips] 黄士旗(ShihChi Huang) <br/> [下一代Web技术运用] 陈子舜(PuterJam) <br/> [前端能力的培养] 程劭非(winter) <br/> [HTTP/2时代的Web性能] Holger Bartel | React, Redux, Node.js, WeChat, HTTP/2 |
-| 2016-04-09 | [深圳-NodeParty at 腾讯大厦](https://cnodejs.org/topic/56f364c7532839c33a99d17e) | | |
+| [2016-03-19](http://fequan.com/2016/) | 广州-嘉裕太阳城广场三楼金逸国际影城四号厅 | [使用React、Redux和Node.js构建通用应用] Stepan Parunashvili <br/> [微信Web APP开发最佳实践] 江剑锋 <br/> [React tips] 黄士旗(ShihChi Huang) <br/> [下一代Web技术运用] 陈子舜(PuterJam) <br/> [前端能力的培养] 程劭非(winter) <br/> [HTTP/2时代的Web性能] Holger Bartel | React, Redux, Node.js, WeChat, HTTP/2 |
+| [2016-04-09](https://cnodejs.org/topic/56f364c7532839c33a99d17e) | 深圳-NodeParty at 腾讯大厦 | | |
 
 
 [使用React、Redux和Node.js构建通用应用]: http://feday.fequan.com/universal-applications-feday-stepan.pdf
